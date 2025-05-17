@@ -1,4 +1,4 @@
-# 🐍 Snake Game
+# 🐍 Simple Snake Game
 
 A basic experimental Snake Game built using only HTML. This project is a simple recreation of the classic snake arcade game, developed as a learning experience in fundamental web game development.
 
